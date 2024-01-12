@@ -1,0 +1,8 @@
+﻿  Arbol.cpp
+  arboles_binarios.cpp
+  Nodo.cpp
+  event.cpp
+  Generando código...
+C:\Users\emili\OneDrive\Escritorio\UP\TERCER_SEMESTRE\Programacion_y_estructura_de_datos\arboles_binarios\Arbol.cpp(78): warning C4715: 'Arbol::findNodo': no todas las rutas de acceso de control devuelven un valor
+C:\Users\emili\OneDrive\Escritorio\UP\TERCER_SEMESTRE\Programacion_y_estructura_de_datos\arboles_binarios\Arbol.cpp(101): warning C4715: 'Arbol::findNodo': no todas las rutas de acceso de control devuelven un valor
+  arboles_binarios.vcxproj -> C:\Users\emili\OneDrive\Escritorio\UP\TERCER_SEMESTRE\Programacion_y_estructura_de_datos\arboles_binarios\x64\Debug\arboles_binarios.exe
